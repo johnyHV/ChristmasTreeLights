@@ -1,0 +1,52 @@
+Partlist
+
+Exported from Stromcek v1.0.sch at 29. 11. 2020 16:58
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value           Device                   Package             Library                    Sheet
+
+BT1      BS-5            BS-5                     BAT_BS-5            BS-5                       1
+C1       100n            C-EUC0603                C0603               rcl                        1
+C2       22p             C-EUC0603                C0603               rcl                        1
+C3       22p             C-EUC0603                C0603               rcl                        1
+C4       100n            C-EUC0603                C0603               rcl                        1
+C5       22p             C-EUC0603                C0603               rcl                        1
+C6       22p             C-EUC0603                C0603               rcl                        1
+C7       100n            C-EUC0603                C0603               rcl                        1
+C8       100n            C-EUC0603                C0603               rcl                        1
+C9       100n            C-EUC0603                C0603               rcl                        1
+C10      100n            C-EUC0603                C0603               rcl                        1
+CN1                      USBMOLEX                 USB-MINIB-THM-MOLEX adafruit                   1
+DS1307   DS1307SO8       DS1307SO8                SO08                SparkFun                   1
+ESP-01                   MA04-2                   MA04-2              con-lstb                   1
+HC-05                    MA06-1                   MA06-1              con-lstb                   1
+IR       PNA460XM        PNA460XM                 PNA460XM            adafruit                   1
+ISP                      MA03-2                   MA03-2              con-lstb                   1
+MOD      SWITCH          SWITCH-MOMENTARY-2PTH_EZ TACTILE-PTH-EZ      SparkFun-Electromechanical 1
+Q1       12Mhz           CRYSTALHC49UP            HC49UP              adafruit                   1
+Q2       16Mhz           CRYSTALHC49UP            HC49UP              adafruit                   1
+Q3       32.768          CRYSTALTC26              TC26                23K_candrian               1
+R1       470             R-EU_R0603               R0603               rcl                        1
+R2       1k              R-EU_R0603               R0603               rcl                        1
+R3       1k              R-EU_R0603               R0603               rcl                        1
+R4       1k              R-EU_R0603               R0603               rcl                        1
+R5       1k              R-EU_R0603               R0603               rcl                        1
+R6       10k             R-EU_R0603               R0603               rcl                        1
+R7       10k             R-EU_R0603               R0603               rcl                        1
+R8       2k2             R-EU_R0603               R0603               rcl                        1
+R9       1k              R-EU_R0603               R0603               rcl                        1
+R10      2k              R-EU_R0603               R0603               rcl                        1
+R11      10k             R-EU_R0603               R0603               rcl                        1
+R12      2k2             R-EU_R0603               R0603               rcl                        1
+R13      1k              R-EU_R0603               R0603               resistor                   1
+R15      1k              R-EU_R0603               R0603               rcl                        1
+RX                       LEDSML0805               SML0805             led                        1
+STAT                     LEDSML0805               SML0805             led                        1
+TX                       LEDSML0805               SML0805             led                        1
+U$1      CH340G          CH340G                   SOIC16              ch340g                     1
+U1                       V_REG_LM1117SOT223       SOT223              SparkFun-IC-Power          1
+U2       ATMEGA328P_TQFP ATMEGA328P_TQFP          TQFP32-08           SparkFun-DigitalIC         1
+X1       1751251         1751251                  1751251             con-phoenix-350            1
